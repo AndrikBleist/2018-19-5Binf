@@ -44,7 +44,7 @@ public class Main extends JFrame {
 		sb.append("Name");
 		sb.append("</div>");
 		sb.append("<div style='display:table-cell'>");
-		sb.append("Description");
+		sb.append("Info");
 		sb.append("</div>");
 		
 		sb.append("</div>");
